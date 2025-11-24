@@ -17,7 +17,8 @@
   <li>🌱 I’m currently learning <b style="color:#2196F3;">Next.js</b> and <b style="color:#673AB7;">C#</b></li>
   <li>👨‍💻 Some of my projects are available at <a href="https://thomas-harrison-portfolio.vercel.app/" style="color:#009688; text-decoration:none;">my portfolio</a></li>
   <li>💬 Ask me about <b>Python, Django, JavaScript, Express.js, React, Authentication, or APIs</b></li>
-  <li>📫 How to reach me: <b style="color:#E91E63;">thomasjh@gmail.com</b></li>
+  <li>📫 How to reach me: <b style="color:#E91E63;"><a href="mailto:thomasjh@gmail.com">Email</a></b> or <b><a href="https://www.linkedin.com/in/tharrisoncs/">LinkedIn</a>
+  </b></li>
   <li>⚡ Fun fact: <i>I speak seven languages, if you count English four times.</i></li>
 </ul>
 

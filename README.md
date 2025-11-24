@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maltsandcino&label=Profile%20views&color=0e75b6&style=flat" alt="maltsandcino" /> </p>
 
 
-- 🔭 I’m currently working on a large **SaaS** known as Climapulse, as well as several smaller Web, ML, and windows-native projects.**
+- 🔭 I’m currently working on a large **SaaS** known as Climapulse, as well as several smaller Web, ML, and windows-native projects.
 
 - 🌱 I’m currently learning **Next, C#**
 

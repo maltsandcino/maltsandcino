@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A full-stack software Engineer from Canada</h3>
+<h1 align="center" style="color:#4CAF50; font-family:Arial, sans-serif;">
+  Hi 👋, I'm Tom
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maltsandcino&label=Profile%20views&color=0e75b6&style=flat" alt="maltsandcino" /> </p>
+<h3 align="center" style="color:#555; font-style:italic;">
+  A full-stack software Engineer from Canada
+</h3>
 
-
-- 🔭 I’m currently working on a large **SaaS** known as Climapulse, as well as several smaller Web, ML, and windows-native projects.
-
-- 🌱 I’m currently learning **Next, C#**
-
-- 👨‍💻 Some of my projects are available at [https://thomas-harrison-portfolio.vercel.app/](https://thomas-harrison-portfolio.vercel.app/)
-
-- 💬 Ask me about **Python, Django, JavaScript, Express.js, React, Authentication, or APIs**
-
-- 📫 How to reach me **thomasjh@gmail.com**
-
-- ⚡ Fun fact **I speak seven Languages, if you count English four times.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharrisoncs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharrisoncs" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maltsandcino&label=Profile%20views&color=0e75b6&style=flat" alt="maltsandcino" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; justify-content: space-between; width: 100%">  
+---
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
+  <li>🔭 I’m currently working on a large <b>SaaS</b> known as <span style="color:#FF5722;">Climapulse</span>, as well as several smaller Web, ML, and Windows-native projects.</li>
+  <li>🌱 I’m currently learning <b style="color:#2196F3;">Next.js</b> and <b style="color:#673AB7;">C#</b></li>
+  <li>👨‍💻 Some of my projects are available at <a href="https://thomas-harrison-portfolio.vercel.app/" style="color:#009688; text-decoration:none;">my portfolio</a></li>
+  <li>💬 Ask me about <b>Python, Django, JavaScript, Express.js, React, Authentication, or APIs</b></li>
+  <li>📫 How to reach me: <b style="color:#E91E63;">thomasjh@gmail.com</b></li>
+  <li>⚡ Fun fact: <i>I speak seven languages, if you count English four times.</i></li>
+</ul>
+
+---
+
+<h3 align="left" style="color:#4CAF50;">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tharrisoncs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharrisoncs" height="30" width="40" style="margin-right:10px;" />
+  </a>
+</p>
+
+<h3 align="left" style="color:#4CAF50;">Languages and Tools:</h3>
+<p align="left" style="display:flex; gap:20px; flex-wrap:wrap;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 

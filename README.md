@@ -30,8 +30,8 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#4CAF50;">Languages and Tools:</h3>
-<p align="left" style="display:flex; gap:20px; flex-wrap:wrap;">
+<h3 align="center" style="color:#4CAF50;">Languages and Tools:</h3>
+<p style="display:flex; gap:20px; flex-wrap:wrap;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -50,6 +50,15 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maltsandcino&show_icons=true&locale=en" alt="maltsandcino" style="width:100%" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maltsandcino&show_icons=true&locale=en" alt="maltsandcino" style="width:80%; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maltsandcino&show_icons=true&locale=en" alt="maltsandcino" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=maltsandcino&show_icons=true&locale=en" 
+    alt="maltsandcino" 
+    style="width:80%; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);" 
+  />
+</p>
+

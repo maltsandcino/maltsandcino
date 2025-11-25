@@ -24,8 +24,8 @@
 
 ---
 
-<h3 align="left" style="color:#4CAF50;">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style="color:#4CAF50;">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/tharrisoncs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharrisoncs" height="30" width="40" style="margin-right:10px;" />
   </a>
@@ -40,8 +40,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maltsandcino&show_icons=true&locale=en" 
+  <img src="https://github-readme-stats.vercel.app/api?username=maltsandcino&show_icons=true&locale=en" 
     alt="maltsandcino" 
     style="width:80%; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);" 
   />
